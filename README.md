@@ -5,7 +5,7 @@
   Desenvolvedor Full Stack, e cursando Sistema de informação.
 </li>
 <li>
-  Procurando sempre evoluir idepentende da tecnolgia!
+  Procurando sempre novos desafios independente da tecnologia!
 </li>
 
 ### Algumas informações sobre minha conta.
@@ -35,6 +35,5 @@
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-henrique-soares-moreno-2bb974205/)
 
-	
-  ![Snake animation](https://github.com/matheushenriquemoreno/matheushenriquemoreno/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/matheushenriquemoreno/matheushenriquemoreno/blob/output/github-contribution-grid-snake.svg)
  
