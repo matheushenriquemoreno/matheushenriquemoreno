@@ -2,7 +2,7 @@
 <hr>
 
 <li>
-  Desenvolvedor Full Stack, e cursando Sistema de informação.
+  Desenvolvedor Full Stack, Graduado em Sistema de informação.
 </li>
 <li>
   Procurando sempre novos desafios independente da tecnologia!
